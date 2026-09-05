@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JoanRuspira.github.io/reference-qpd5ep/sitemap.xml
